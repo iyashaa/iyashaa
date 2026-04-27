@@ -15,9 +15,7 @@ I'm an active student at Gunadarma University. Aspiring Data Scientist who loves
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iyashaa/iyashaa/main/assets/techstack.png" width="700"/>
-</p>
+![Pandas](https://img.shields.io/badge/Pandas-black) ![NumPy](https://img.shields.io/badge/NumPy-blue) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange) ![Matplotlib](https://img.shields.io/badge/Matplotlib-green) ![Seaborn](https://img.shields.io/badge/Seaborn-lightblue) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google-Colab-yellow) ![Git](https://img.shields.io/badge/Git-red) ![MySQL](https://img.shields.io/badge/MySQL-blue) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-orange)
 
 ---
 
