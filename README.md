@@ -1,15 +1,15 @@
-## Hi there 👋 I'm Ghiyyas
+### Hi there 👋 I'm Ghiyyas
 
 I'm an active student at Gunadarma University. Aspiring Data Scientist who loves working with data, machine learning, and analytics, also passionate about turning data into meaningful insights and real-world solutions
 
-## About Me
+### About Me
 
 - Currently learning: Data Science, Machine Learning, and Data Analysis
 - Interested in: AI, Predictive Modeling, and Data Visualization
 - Tools I use: Python, Pandas, NumPy, Scikit-learn
 - Exploring: Data storytelling & dashboard development
 
-## Tech Stack
+### Tech Stack
 
 <a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></a>
 <a href="#"><img align="left" alt="Pandas" title="Pandas" width="21px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/></a>
@@ -25,7 +25,7 @@ I'm an active student at Gunadarma University. Aspiring Data Scientist who loves
 <br>
 <br>
 
-## GitHub Stats
+### GitHub Stats
 
 <p align="left">
 <a href="https://github.com/iyashaa">
@@ -34,7 +34,7 @@ I'm an active student at Gunadarma University. Aspiring Data Scientist who loves
 </a>
 </p>
 
-## Connect with Me
+### Connect with Me
 
 - yashnime29@gmail.com
 - <a href="https://www.linkedin.com/in/ghiyyas-abiyasha-532296325/">LinkedIn</a>
