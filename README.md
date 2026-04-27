@@ -31,4 +31,5 @@ I'm an active student at Gunadarma University. Aspiring Data Scientist who loves
 
 ## Connect with Me
 
+* Linkedin: https://www.linkedin.com/in/ghiyyas-abiyasha-532296325/
 * Email: yashnime29@gmail.com
