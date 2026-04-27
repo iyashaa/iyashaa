@@ -29,7 +29,7 @@ I'm an active student at Gunadarma University. Aspiring Data Scientist who loves
 
 <p align="left">
 <a href="https://github.com/iyashaa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iyashaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iyashaa&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyashaa&layout=compact&theme=tokyonight"/>
 </a>
 </p>
