@@ -24,16 +24,10 @@ I'm an active student at Gunadarma University. Aspiring Data Scientist who loves
 
 ## GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=iyashaa&show_icons=true&theme=tokyonight"widht="48%"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyashaa&layout=compact&theme=tokyonight"widht="48%"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iyashaa&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyashaa&layout=compact&theme=tokyonight" width="48%"/>
+</p>
 
 ## Connect with Me
 
