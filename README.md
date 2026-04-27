@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ghiyyas
 
-I'm an active 6th semester student at Gunadarma University. Aspiring Data Scientist who loves working with data, machine learning, and analytics, alsp passionate about turning data into meaningful insights and real-world solutions
+I'm an active student at Gunadarma University. Aspiring Data Scientist who loves working with data, machine learning, and analytics, alsp passionate about turning data into meaningful insights and real-world solutions
 
 ---
 
@@ -21,6 +21,11 @@ I'm an active 6th semester student at Gunadarma University. Aspiring Data Scient
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-green)
 ![Seaborn](https://img.shields.io/badge/Seaborn-lightblue)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![Google Colab](https://img.shields.io/badge/Google-Colab-yellow)
+![Git](https://img.shields.io/badge/Git-red)
+![MySQL](https://img.shields.io/badge/MySQL-blue)
+![PostgreSQL](https://img.shields.io/badge/MySQL-blue)
 
 ---
 
