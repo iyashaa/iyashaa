@@ -28,8 +28,8 @@ I'm an active student at Gunadarma University. Aspiring Data Scientist who loves
 ### GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=iyashaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="49%"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iyashaa&layout=compact&langs_count=8&theme=algolia" width="49%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=iyashaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iyashaa&layout=compact&langs_count=8&theme=algolia" height="180em"/>
 </p>
 
 ### Connect with Me
