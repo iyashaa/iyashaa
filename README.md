@@ -25,7 +25,7 @@ I'm an active student at Gunadarma University. Aspiring Data Scientist who loves
 ![Google Colab](https://img.shields.io/badge/Google-Colab-yellow)
 ![Git](https://img.shields.io/badge/Git-red)
 ![MySQL](https://img.shields.io/badge/MySQL-blue)
-![PostgreSQL](https://img.shields.io/badge/MySQL-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-orange)
 
 ---
 
