@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ghiyyas
 
-I'm an active student at Gunadarma University. Aspiring Data Scientist who loves working with data, machine learning, and analytics, alsp passionate about turning data into meaningful insights and real-world solutions
+I'm an active student at Gunadarma University. Aspiring Data Scientist who loves working with data, machine learning, and analytics, also passionate about turning data into meaningful insights and real-world solutions
 
 ---
 
