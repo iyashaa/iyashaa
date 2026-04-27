@@ -27,10 +27,10 @@ I'm an active student at Gunadarma University. Aspiring Data Scientist who loves
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=iyashaa&show_icons=true&theme=tokyonight"widht="48%"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyashaa&layout=compact&theme=tokyonight"widht="48%"/>
     </td>
   </tr>
 </table>
