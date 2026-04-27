@@ -21,7 +21,7 @@ I'm an active student at Gunadarma University. Aspiring Data Scientist who loves
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-green)
 ![Seaborn](https://img.shields.io/badge/Seaborn-lightblue)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google-Colab-yellow)
 ![Git](https://img.shields.io/badge/Git-red)
 ![MySQL](https://img.shields.io/badge/MySQL-blue)
