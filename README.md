@@ -36,5 +36,5 @@ I'm an active student at Gunadarma University. Aspiring Data Scientist who loves
 
 ## Connect with Me
 
-- <a href="mailto:EMAIL_KAMU">Email</a>
-- <a href="https://linkedin.com/in/LINKEDIN_KAMU">LinkedIn</a>
+- yashnime29@gmail.com
+- <a href="https://www.linkedin.com/in/ghiyyas-abiyasha-532296325/">LinkedIn</a>
