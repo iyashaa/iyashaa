@@ -15,13 +15,10 @@ I'm an active student at Gunadarma University. Aspiring Data Scientist who loves
 
 ## Tech Stack
 
-<br>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/iyashaa/REPO/main/assets/techstack.png" width="700"/>
 </p>
 
-<br>
 ---
 
 ## GitHub Stats
