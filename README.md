@@ -4,10 +4,10 @@ I'm an active student at Gunadarma University. Aspiring Data Scientist who loves
 
 ## About Me
 
-* Currently learning: Data Science, Machine Learning, and Data Analysis
-* Interested in: AI, Predictive Modeling, and Data Visualization
-* Tools I use: Python, Pandas, NumPy, Scikit-learn
-* Exploring: Data storytelling & dashboard development
+- Currently learning: Data Science, Machine Learning, and Data Analysis
+- Interested in: AI, Predictive Modeling, and Data Visualization
+- Tools I use: Python, Pandas, NumPy, Scikit-learn
+- Exploring: Data storytelling & dashboard development
 
 ## Tech Stack
 
