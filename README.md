@@ -16,7 +16,7 @@ I'm an active student at Gunadarma University. Aspiring Data Scientist who loves
 ## Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iyashaa/REPO/main/assets/techstack.png" width="700"/>
+  <img src="https://raw.githubusercontent.com/iyashaa/iyashaa/main/assets/techstack.png" width="700"/>
 </p>
 
 ---
