@@ -32,7 +32,7 @@ I'm an active student at Gunadarma University. Aspiring Data Scientist who loves
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iyashaa&layout=compact&langs_count=10&theme=algolia"/>
 </p>
 
-### Connect with Me
+### Reach Me
 
 - yashnime29@gmail.com
 - <a href="https://www.linkedin.com/in/ghiyyas-abiyasha-532296325/">LinkedIn</a>
