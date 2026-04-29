@@ -31,7 +31,7 @@ I'm an active student at Gunadarma University. Aspiring Data Scientist who loves
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iyashaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iyashaa&layout=compact&langs_count=10&theme=algolia"/>
 </p>
-
+p
 ### Reach Me
 
 - yashnime29@gmail.com
