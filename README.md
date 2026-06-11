@@ -59,6 +59,6 @@ Welcome to my GitHub profile. I am an Informatics student at Gunadarma Universit
 
 ## Reach Me
 
-• Email: [yashnime29@gmail.com](mailto:yashnime29@gmail.com)
+• [Email](mailto:yashnime29@gmail.com)
 
-• LinkedIn: [LinkedIn](https://www.linkedin.com/in/ghiyyas-abiyasha-winardi-532296325/)
+• [LinkedIn](https://www.linkedin.com/in/ghiyyas-abiyasha-winardi-532296325/)
