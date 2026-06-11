@@ -36,20 +36,14 @@ Welcome to my GitHub profile. I am an Informatics student at Gunadarma Universit
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
-### Machine Learning
+### Machine Learning & Deep Learning
 
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Classification-1F6FEB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Clustering-6F42C1?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Predictive%20Modeling-2EA44F?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-### Deep Learning
-
-<p>
   <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neural%20Network-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/CNN-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/LSTM-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -74,7 +68,7 @@ Welcome to my GitHub profile. I am an Informatics student at Gunadarma Universit
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ### Database & Web Basics
@@ -83,7 +77,7 @@ Welcome to my GitHub profile. I am an Informatics student at Gunadarma Universit
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
