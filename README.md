@@ -29,25 +29,35 @@ Welcome to my GitHub profile. I am an Informatics student at Gunadarma Universit
 ### Programming & Data Science
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
 
 ### Data Analysis & Visualization
 
 <p>
-  <img src="https://skillicons.dev/icons?i=anaconda,pycharm,vscode" />
+  <img src="https://skillicons.dev/icons?i=anaconda" />
+  <img src="https://skillicons.dev/icons?i=pycharm" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
 ### Database & Web Basics
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=postgresql" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=js" />
 </p>
 
 ### Tools & Workflow
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 ---
