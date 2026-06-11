@@ -39,11 +39,9 @@ Welcome to my GitHub profile. I am an Informatics student at Gunadarma Universit
 ### Machine Learning & Deep Learning
 
 <p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Classification-1F6FEB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Clustering-6F42C1?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Predictive%20Modeling-2EA44F?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/CNN-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/LSTM-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
