@@ -1,38 +1,78 @@
-### Hi 👋 I'm Ghiyyas
+# 👋 Halo, Saya Ghiyyas
 
-I'm an active student at Gunadarma University. Aspiring Data Scientist who loves working with data, machine learning, and analytics, also passionate about turning data into meaningful insights and real-world solutions
+---
 
-### About Me
+## Data Science & Python Developer Specialist
 
-- Currently learning: Data Science, Machine Learning, and Data Analysis
-- Interested in: AI, Predictive Modeling, and Data Visualization
-- Tools I use: Python, Pandas, NumPy, Scikit-learn
-- Exploring: Data storytelling & dashboard development
+### Junior Data Scientist | Python Developer 🐍💻
 
-### Tech Stack
+Welcome to my GitHub profile. I am an Informatics student at Gunadarma University with a strong interest in Data Science, Machine Learning, and Python-based development. I enjoy working with data, building machine learning models, and turning raw information into meaningful insights and real-world solutions.
 
-<a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="21px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></a>
-<a href="https://pandas.pydata.org/"><img align="left" alt="Pandas" title="Pandas" width="21px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/></a>
-<a href="https://numpy.org/"><img align="left" alt="NumPy" title="NumPy" width="21px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/></a>
-<a href="https://scikit-learn.org/stable/"><img align="left" alt="Scikit-Learn" title="Scikit-Learn" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/></a>
-<a href="https://matplotlib.org/"><img align="left" alt="Matplotlib" title="Matplotlib" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"/></a>
-<a href="https://seaborn.pydata.org/"><img align="left" alt="Seaborn" title="Seaborn" width="21px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/></a>
-<a href="https://jupyter.org/"><img align="left" alt="Jupyter Notebook" title="Jupyter Notebook" width="21px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/></a>
-<a href="https://colab.research.google.com/"><img align="left" alt="Google Colab" title="Google Colab" width="21px" src="https://colab.research.google.com/img/colab_favicon_256px.png"/></a>
-<a href="https://git-scm.com/"><img align="left" alt="Git" title="Git" width="21px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></a>
-<a href="https://www.mysql.com/"><img align="left" alt="MySQL" title="MySQL" width="21px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></a>
-<a href="https://www.postgresql.org/"><img align="left" alt="PostgreSQL" title="PostgreSQL" width="21px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></a>
-<br>
-<br>
+---
 
-### GitHub Stats
+## About Me
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iyashaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iyashaa&layout=compact&langs_count=10&theme=algolia"/>
+• I am currently learning and exploring Data Science, Machine Learning, and Data Analysis
+
+• I am interested in AI, Predictive Modeling, Data Visualization, and Dashboard Development
+
+• I enjoy building projects using Python, Pandas, NumPy, Scikit-learn, and Streamlit
+
+• I am open to collaborating on data science, machine learning, and analytics projects
+
+• Ask me about Python, Data Analysis, Machine Learning, or Dashboard Development
+
+• How to reach me: [yashnime29@gmail.com](mailto:yashnime29@gmail.com) or connect via [LinkedIn](https://www.linkedin.com/)
+
+---
+
+## 🛠️ Tech Stack
+
+### 🐍 Programming & Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
 
-### Reach Me
+### 📊 Data Analysis & Visualization
 
-- yashnime29@gmail.com
-- <a href="https://www.linkedin.com/in/ghiyyas-abiyasha-532296325/">LinkedIn</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=pycharm" />
+  <img src="https://skillicons.dev/icons?i=anaconda" />
+  <img src="https://skillicons.dev/icons?i=matplotlib" />
+</p>
+
+### 💻 Software Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,postgresql" />
+</p>
+
+### 🧰 Tools & Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=iyashaa&show_icons=true&theme=algolia&hide_border=false" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyashaa&layout=compact&theme=algolia&hide_border=false" />
+</p>
+
+---
+
+## 📫 Reach Me
+
+• Email: [yashnime29@gmail.com](mailto:yashnime29@gmail.com)
+
+• LinkedIn: [LinkedIn](https://www.linkedin.com/in/ghiyyas-abiyasha-532296325/)
