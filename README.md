@@ -22,8 +22,6 @@ Welcome to my GitHub profile. I am an Informatics student at Gunadarma Universit
 
 • Ask me about Python, Data Analysis, Machine Learning, or Dashboard Development
 
-• How to reach me: [yashnime29@gmail.com](mailto:yashnime29@gmail.com) or connect via [LinkedIn](https://www.linkedin.com/in/ghiyyas-abiyasha-532296325/)
-
 ---
 
 ## Tech Stack
